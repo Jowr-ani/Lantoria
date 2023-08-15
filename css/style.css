@@ -203,7 +203,7 @@ a{
 @media (max-width:768px) {
     .popout-box{width: 60% !important; }
 
-    video{height: fit-content !important; object-fit: contain !important;}
+    video{height: fit-content !important; object-fit: contain !important; height: auto !important;}
 
 }
 
